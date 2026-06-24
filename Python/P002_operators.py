@@ -35,3 +35,21 @@ b = 10
 
 a += b # a = a+b
 print(a)
+
+
+#3.conditional -> >,<,>=,<=,==,!=
+
+i = 10
+j = 1
+print(i > j)
+print(i >= j)
+print(i < j)
+print(i <= j)
+print(i == j)
+print(i != j)
+
+#4.logical -> and,or,not
+
+a = 10
+b = 10
+
