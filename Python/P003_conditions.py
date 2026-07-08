@@ -19,7 +19,7 @@ else:
 
 #3.elif
 per = 76
-if(per < 35):
+if(per < 35 and per > 0):
     print('fail')
 elif(per >= 35 and per <= 60):
     print('pass class')
@@ -36,7 +36,7 @@ else:
     
 
 #4.match
-choice = 2
+choice = 1
 match choice:
     case 1:
         print('you selected english')
