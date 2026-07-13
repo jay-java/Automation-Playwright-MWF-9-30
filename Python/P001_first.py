@@ -11,3 +11,6 @@ print('name = ',name)
 print(type(contact))
 print(type(per))
 print(type(name))
+
+print('hello',end='')
+print('Python')

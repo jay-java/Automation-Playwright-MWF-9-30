@@ -1,5 +1,5 @@
 #1.if else
-a = 100
+a = 100.
 b = 20
 if(a > b):
     print('a is greater than b')
